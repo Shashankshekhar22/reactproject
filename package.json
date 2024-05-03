@@ -1,0 +1,46 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "This is the learning project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shashankshekhar22/reactproject.git"
+  },
+  "keywords": [
+    "react",
+    "learning",
+    "skill-up"
+  ],
+  "author": "Shashank Shekhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shashankshekhar22/reactproject/issues"
+  },
+  "homepage": "https://github.com/Shashankshekhar22/reactproject#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
